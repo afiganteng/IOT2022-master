@@ -1,0 +1,6 @@
+suatu perangkat yang saling terkait mahkluk hidup maupun benda mati yang memiliki pengidentifikasian unik dan kemampuan untuk mentransfer data tanpa memerlukan interaksi manusia ke manusia atau manusia ke komputer
+
+ATCS yang menentuan berapa lama 
+waktu masing masing lampu ntuk menyala yang ditentukan berdasarkan persentase kepadatan kendaraan yang terjadi di hadapan lampu tersebut. Kamera menangap foto tersebut Hasil tangkapan kameranya di simpan ke PC lalu diolah untuk dilakukan perhitungan dan ditentukan persentase kepadatannya, lalu ditentukan berapa lama lampu hijau mesti menyala.. lalu lampu lalu lintas tersebut mengalami pergantian berdasarkan hasil perhitungan yang ditentkan oleh oleh komputer
+
+Cari tem

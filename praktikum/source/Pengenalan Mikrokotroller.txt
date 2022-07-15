@@ -1,0 +1,30 @@
+MIKROPROSESSOR (Pemroses)
+CPU yang terdapat dalam satu chip yang terintegrasi dengan jumlah medium atau pun besar
+
+Mikrokomputer
+Mini PC. Tetapi ukurannya kecil, didalam mikroprosesor terdapat mikrokomputer
+
+Mikrokontroller
+untuk mengontrol
+
+Didalam mikrokontroller terdapat CPU, Memory, dan input output
+Didalam Mikroprosesor hanya terdapat CPU
+
+CONTOH MIKROKONTROLLER : ARDUINO, VEMOS, ESP
+Biasanya Arduino tidak lengkap isi port nya namun Raspi biasanya sudah lengkap
+
+ARDUINO TIDAK PERLU MENGGUNAKAN OS, COCOK UNTUK KEPERLUAN YANG TIDAK TERLALU BESAR
+RASPI MEMERLUKAN OS, COCOK UNTUK KEPERLUAN YANG BESAR
+
+PIRANTI INPUT : Sesnor, kompas digital
+PIRANTI OUTPUT : Aktuator, motor stepper solenoid, komponen display (LED, LCD), komponen penghasil suara
+
+PROTOKOL KOMUNIKASI
+Beberapa jenis protocol yang sering digunakan untuk komunikasi
+
+Serial vs Paralel
+Komunikasi paralel digunakan dengan mengirimkan bit pada waktu yang bersamaan, sedangkan komunikasi serial dilakukan dengan memberikan bit satu demi satu melalui sebuah kabel
+
+SPI
+banya digunakan perangkat seperti transmitter/receiver semua menggunakan komunikasi SIP untuk berkomunikasi dengan microcontroller. 1
+Menggunakan konsep master-slave, master berupa perangka yang mengontrol sedangkan slave adalah perangkat yang menerima instruksi dari master
